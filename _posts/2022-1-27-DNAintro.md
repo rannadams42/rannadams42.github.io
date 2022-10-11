@@ -22,6 +22,4 @@ There are several structural motifs. There is the A-duplex, B-duplex, and X-dupl
 
 DNA has shown potential as a structural biomaterial. It has been retooled to artificial recognition agents and structural scaffolds for applications in material science, biophysical research and synthetic biology.
 
-## Conclusion
 
-## Sources
