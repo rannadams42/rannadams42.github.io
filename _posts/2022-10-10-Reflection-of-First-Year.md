@@ -1,7 +1,7 @@
 ---
-title: Reflection of my First Year in Carnegie Mellon
-layout: template
-filename: Reflection of my first year in Carnegie Mellon
+layout: post
+title: "Reflection of my First Year in Carnegie Mellon"
+filename: Reflection-of-First-Year.md
 --- 
 
 One of my favorite quotes that I always find myself referring to is "Not all those who wonder are lost; The old that is storng does not wither, Deep roots are not reached by the frost" from J.R.R. Tolkien. With all my endevors, I find myself wandering for a long time until I eventually found my purpose. Sometimes, the wandering journey seems linear or non-linear. Sometimes, the journey seems circular (rather most journeys feel like that). 
