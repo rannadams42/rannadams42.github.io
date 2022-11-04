@@ -1,6 +1,6 @@
 ---
-title: Introduction to DNA
-layout: template
+layout: post
+title: "Introduction to DNA"
 filename: DNA intro
 --- 
 
