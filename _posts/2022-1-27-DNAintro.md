@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Introduction to DNA"
-filename: DNA intro
+fdate: 2022-11-04
+categories: jekyll blogging
 --- 
 
 I never thought that I would find myself working with DNA during my Ph.D. program. But I guess it proves how interdisciplinary research is in engineering where even a Mechanical Enigneering student would find themselves working in the field of biotechnology. When starting off on my project, I never really appreciated how flexible and complex DNA was until now. 
@@ -9,6 +10,9 @@ I never thought that I would find myself working with DNA during my Ph.D. progra
 # Fundamentals of DNA and it's importance in engineering
 
 DNA is a biological macromolecule that stores genetic information and transmit it to the next generation. 
+
+![my inspiring image]({{ "/assets/sample-image.jpg" | relative_url }})
+_Photo by [Ian Schneider](https://unsplash.com/@goian)_
 
 ## Structure and function
 
