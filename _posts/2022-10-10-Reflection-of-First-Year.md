@@ -1,5 +1,5 @@
 ---
-title: Introduction to DNA
+title: Reflection of my First Year in Carnegie Mellon
 layout: template
 filename: Reflection of my first year in Carnegie Mellon
 --- 
