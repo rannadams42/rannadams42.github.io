@@ -11,7 +11,7 @@ I never thought that I would find myself working with DNA during my Ph.D. progra
 
 DNA is a biological macromolecule that stores genetic information and transmit it to the next generation. 
 
-![my inspiring image]({{ "/assets/images/DNAbases.png" | relative_url }})
+![my inspiring image]({{ "_posts/assets/images/DNAbases.png" | relative_url }})
 _Photo by [Ian Schneider](https://unsplash.com/@goian)_
 
 ## Structure and function
